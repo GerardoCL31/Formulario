@@ -5,9 +5,13 @@ background-size: cover;
 font-size: x-large;
 
 
+
+}
+h1{
+    color: rgb(255, 187, 127);
 }
 
-h1, legend,label{
+legend,label{
     color: rgb(255, 255, 255);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: oblique;
