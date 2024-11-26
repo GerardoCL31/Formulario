@@ -1,0 +1,15 @@
+body{
+background-image: url(william-warby-ld4wZGqlLF4-unsplash.jpg);
+background-position: center;
+background-size: cover;
+font-size: x-large;
+}
+
+h1, legend,label{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-stretch: expanded;
+
+    
+}
